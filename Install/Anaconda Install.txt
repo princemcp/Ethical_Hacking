@@ -1,0 +1,20 @@
+source ~/.bashrc
+
+will show env list >>
+conda env list
+
+Create new environment >>
+conda create --name EhicalHacking python=3.11
+
+Activate env >>
+conda activate VS_EthicalHacking
+
+Deactivate env >>
+conda deactivate
+
+Show env path >>
+which python
+
+
+more information >>
+https://www.youtube.com/watch?v=MUZtVEDKXsk
