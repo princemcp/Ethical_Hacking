@@ -15,6 +15,9 @@ conda deactivate
 Show env path >>
 which python
 
+conda install 
+To install this package run one of the following:
+conda install -c anaconda requests
 
 more information >>
 https://www.youtube.com/watch?v=MUZtVEDKXsk
